@@ -2,8 +2,8 @@ print("hello\"world\"world")
 print("hello\'world")   #printing double/single quotes within double quotes
 
 
-# print("lineA")
-# print("lineB")
+print("lineA")
+print("lineB")
 #or
 print("lineA\nlineB")   #newline
 print("name\tAnu")   #newtab
