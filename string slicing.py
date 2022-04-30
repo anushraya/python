@@ -1,8 +1,8 @@
 from tkinter import E
 
 
-language="python"
-print(language[2:4])
+# language="python"
+# print(language[2:4])
 
 x="hello everyone"
 print(x[-3:14])
