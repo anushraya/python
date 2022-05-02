@@ -22,3 +22,18 @@ print(is_even(10))
 def song():
     return"happy birthday"
 print(song())
+
+
+for i in range(1,11):
+    print(i,end=" " )
+print()
+i = 1
+for i in range(1,10):
+    print(i,end="," )
+i+=1
+print(i)
+for i in range(1,11):
+    print(i,end=" " )("\n")
+    print(i,end=" ," )
+
+    
