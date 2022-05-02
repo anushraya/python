@@ -3,7 +3,7 @@ def fibonacci_seq(n):
     b=1
     if n==1:
         print(a)
-    elif n==1:
+    elif n==2:
         print(a,b)
     else:
         print(a,b,end=" ")
